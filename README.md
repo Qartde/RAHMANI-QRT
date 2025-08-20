@@ -13,10 +13,13 @@
 
  
 
-## 𝐃𝐄𝐏𝐋𝐎𝐘 𝐒𝐄𝐓𝐔𝐏 ↕️
+## 𝐃𝐄𝐏𝐋𝐎𝐘 𝐒𝐄𝐓𝐔𝐏 ✅
 
 * MUST FORK AND STAR THIS REPO 
 
-  <a href="https://github.com/Qartde/RAHMANI-QRT/fork"><img src="https://img.shields.io/github/forks/NaCkS-ai/RAHMANI-QRT?style=for-the-badge&logo=github&color=4c1&label=Fork%20RAHMANI-QRT" alt="Fork Qartde" /></a>
-
+  <p align="center">
+  <!-- Fork Button -->
+  <a href="https://github.com/Qartde/RAHMANI-QRT/fork" target="_blank">
+    <img src="https://img.shields.io/badge/Fork%20this%20Repo-30363d?style=for-the-badge&logo=github&logoColor=white&labelColor=24292f&color=238636" alt="Fork this repo"/>
+  </a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
