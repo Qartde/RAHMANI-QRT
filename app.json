@@ -1,8 +1,8 @@
 {
-  "name": "NOVA-XMD",
-  "description": "Whatsapp bot 🤖 by nova xmd tech",
-  "logo": "https://files.catbox.moe/4j07ae.jpg",
-  "keywords": ["NOVA-XMD"],
+  "name": "RAHMANI-MD",
+  "description": "Best whatsapp bot developed by 𝐑𝐀𝐇𝐌𝐀𝐍𝐈-𝐌𝐃",
+  "logo": "https://files.catbox.moe/aktbgo.jpg",
+  "keywords": ["RAHMANI-MD"],
   "success_url": "/",
 
   "stack": "container",
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "NOVA-XMD"
+      "value": "RAHMANI-MD"
     },
 
     "PREFIX": {
@@ -34,7 +34,7 @@
     "ANTI_DELETE": {
       "description": "set true for show deleted messages.",
       "required": false,
-      "value": "true"
+      "value": "false"
     },
 
     "ALWAYS_ONLINE": {
@@ -76,37 +76,37 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY NOVA XMD*"
+      "value": "*SEEN YOUR STATUS BY RAHMANI MD*"
     },
 
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "NOVA-TECH"
+      "value": "RAHMANI MD"
     },
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "255767862457"
+      "value": "255760164530"
     },
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "NOVA-XMD"
+      "value": "RAHMANI-MD"
     },
 
     "ANTI_LINK": {
       "description": "Make it true if you want bot auto remove group link.",
       "required": true,
-      "value": "true"
+      "value": "false"
     },
 
     "ANTI_LINK_KICK": {
       "description": "Make it true if you want bot auto remove group link.",
       "required": true,
-      "value": "true"
+      "value": "false"
     },
 
     "ANTI_BAD": {
@@ -118,25 +118,25 @@
     "MENTION_REPLY": {
       "description": "make it true if want mention reply if someone menetion you.",
       "required": false,
-      "value": "true"
+      "value": "false"
     },
 
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://files.catbox.moe/4j07ae.jpg"
+      "value": "https://files.catbox.moe/aktbgo.jpg"
     },
 
     "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝙽𝙾𝚅𝙰-𝚇𝙼𝙳*"
+      "value": "*® ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝚁𝙰𝙷𝙼𝙰𝙽𝙸 𝙼𝙳*"
     },
 
     "DELETE_LINKS": {
       "description": "remove links from group automatically without removing member",
       "required": false,
-      "value": "true"
+      "value": "false"
     },
 
     "AUTO_RECORDING": {
@@ -184,13 +184,13 @@
     "WELCOME": {
       "description": "make it true if want goodbye and welcome message in groups.",
       "required": false,
-      "value": "true"
+      "value": "false"
     },
 
     "ANTICALL": {
       "description": "Make it true if you want bot to block incoming calls.",
       "required": false,
-      "value": "true"
+      "value": "false"
     },
 
     "READ_MESSAGE": {
