@@ -1,9 +1,9 @@
 services:
   - type: web
-    name: NOVA-XMD
+    name: RAHMANI-MD
     env: node
     plan: free
-    repo: https://github.com/caseyweb/NOVA-XMD
+    repo: https://github.com/caseyweb/Qartde/RAHMANI-QRT
     branch: main
     buildCommand: npm install
     startCommand: npm start
