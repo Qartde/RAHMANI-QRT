@@ -21,7 +21,7 @@ AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
 ANTI_CALL: process.env.ANTI_CALL || "true",
 // anticall on/off
 
-AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY NOVA XMD 🔥*",
+AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY RAHMANI-MD 🔥*",
 // set the auto reply massage on status reply  
 
 ANTI_DELETE: process.env.ANTI_DELETE || "true",
@@ -42,16 +42,16 @@ ANTI_LINK: process.env.ANTI_LINK || "true",
 MENTION_REPLY: process.env.MENTION_REPLY || "false",
 // make true if want auto voice reply if someone menetion you 
 
-MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/52dotx.jpg",
+MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/aktbgo.jpg",
 // add custom menu and mention reply image url
 
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
 
-BOT_NAME: process.env.BOT_NAME || "NOVA-XMD",
+BOT_NAME: process.env.BOT_NAME || "RAHMANI-MD",
 // add bot namw here for menu
 
-STICKER_NAME: process.env.STICKER_NAME || "NOVA-XMD",
+STICKER_NAME: process.env.STICKER_NAME || "RAHMANI-MD",
 // type sticker pack name 
 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
@@ -60,19 +60,19 @@ CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍",
 // chose custom react emojis by yourself
 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "255767862457",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "255760164530",
 // add your bot owner number
 
-OWNER_NAME: process.env.OWNER_NAME || "NOVA-TECH",
+OWNER_NAME: process.env.OWNER_NAME || "RAHMANI-MD",
 // add bot owner name
 
-DESCRIPTION: process.env.DESCRIPTION || "*© POWERED NOVA TECH*",
+DESCRIPTION: process.env.DESCRIPTION || "*® POWERED RAHMANI MD*",
 // add bot description    
 
-ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/52dotx.jpg",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/aktbgo.jpg",
 // add img for alive msg
 
-LIVE_MSG: process.env.LIVE_MSG || "> Powered by *NOVA TECH*⚡",
+LIVE_MSG: process.env.LIVE_MSG || "> Powered by *RAHMANI MD*⚡",
 // add alive msg here 
 
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
@@ -105,7 +105,7 @@ AUTO_TYPING: process.env.AUTO_TYPING || "true",
 READ_CMD: process.env.READ_CMD || "false",
 // true if want mark commands as read 
 
-DEV: process.env.DEV || "255767862457",
+DEV: process.env.DEV || "255760164530",
 // replace with your whatsapp number        
 
 ANTI_VV: process.env.ANTI_VV || "true",
