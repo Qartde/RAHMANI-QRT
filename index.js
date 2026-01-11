@@ -45,7 +45,7 @@ const Crypto = require('crypto')
 const path = require('path')
 const prefix = config.PREFIX
 
-const ownerNumber = ['255767862457']
+const ownerNumber = ['255760164530']
 
 const tempDir = path.join(os.tmpdir(), 'cache-temp')
 if (!fs.existsSync(tempDir)) {
@@ -131,31 +131,31 @@ async function connectToWA() {
           console.log('Plugins installed successful ✅')
           console.log('Bot connected to whatsapp ✅')
           const startMess = {
-            image: { url: 'https://files.catbox.moe/4j07ae.jpg' },
+            image: { url: 'https://files.catbox.moe/aktbgo.jpg' },
             caption: `
 ───────────────────────────
-*CONNECTED SUCCESSFUL ✅*
+*🌀CONNECTED SUCCESSFUL ✅*
 ────────────────────────────
 > Simple , Straight Forward But Loaded With Features, 
- Meet *NOVA-XMD* WhatsApp Bot🔥
+ Meet *RAHMANI-MD* WhatsApp Bot🔥
 
-*Thanks for using NOVA XMD* 
+*Thanks for using RAHMANI MD* 
 *Join WhatsApp Channel 🕊️*
-> https://whatsapp.com/channel/0029VawO6hgF6sn7k3SuVU3z
+> https://whatsapp.com/channel/0029VatokI45EjxufALmY32X
 
 *Join WhatsApp group 😎*
-> https://chat.whatsapp.com/BKoqNbYGCkK5apBNP0nzI3
+> https://chat.whatsapp.com/DTnrZzULVtP5r0E9rhoFOj
 
 *ʏᴏᴜʀ ᴘʀᴇғɪx : ${config.PREFIX}*
 ────────────────────────────
 
-> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝙽𝙾𝚅𝙰 ᴛᴇᴄʜ*`,
+> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝚁𝙰𝙷𝙼𝙰𝙽𝙸 𝙼𝙳*`,
             contextInfo: {
               forwardingScore: 5,
               isForwarded: true,
               forwardedNewsletterMessageInfo: {
-                newsletterJid: '120363382023564830@newsletter', 
-                newsletterName: "NOVA-XMD",
+                newsletterJid: '120363353854480831@newsletter', 
+                newsletterName: "RAHMANI-MD",
                 serverMessageId: 143
               }
             }
@@ -202,7 +202,7 @@ function getCurrentDateTimeParts() {
 setInterval(async () => {
     if (config.AUTO_BIO === "true") {
         const { date, time } = getCurrentDateTimeParts(); // Get separated date and time
-        const bioText = `🛡️ NOVA BOT 🤖 LIVE NOW\n📅 ${date}\n⏰ ${time}`;
+        const bioText = `❄ RAHMANI BOT 🤖 LIVE NOW\n📅 ${date}\n⏰ ${time}`;
         try {
             await conn.setStatus(bioText);
             console.log(`Updated Bio: ${bioText}`);
@@ -303,7 +303,7 @@ setInterval(async () => {
       }
       
       const udp = botNumber.split('@')[0]
-      const rav = ('255767862457', '255741752020')
+      const rav = ('255693629079', '255760164530')
       let isCreator = [udp, rav, config.DEV]
         .map(v => v.replace(/[^0-9]/g) + '@s.whatsapp.net')
         .includes(mek.sender)
@@ -347,7 +347,7 @@ setInterval(async () => {
       }
       
       //================ownerreact==============
-      if (senderNumber.includes("255741752020") && !isReact) {
+      if (senderNumber.includes("255660164530") && !isReact) {
         const reactions = ["👑", "🥳", "📊", "⚙️", "🧠", "🎯", "✨", "🔑", "🏆", "👻", "🎉", "💗", "❤️", "😜", "🌼", "🏵️", ,"💐", "🔥", "❄️", "🌝", "🌟", "🐥", "🧊"]
         const randomReaction = reactions[Math.floor(Math.random() * reactions.length)]
         m.react(randomReaction)
@@ -804,7 +804,7 @@ setInterval(async () => {
 }
   
 app.get("/", (req, res) => {
-  res.send("NOVA XMD STARTED ✅")
+  res.send("RAHMANI MD STARTED ✅")
 })
 
 // Anti-crash handler
