@@ -69,4 +69,11 @@ ______________
    
 _________________________
 
-[![Report Issue / Contact Maintainer](https://img.shields.io/badge/Contact%20Maintainer-Report%20Error-green?logo=whatsapp)](https://wa.me/255693629079,255760164530?text=Hi%2C%20I%20want%20to%20report%20an%20issue%20with%20RAHMANI-XMD)
+[![Report Issue / Contact Maintainer](https://img.shields.io/badge/Contact%20Maintainer-Report%20Error-green?logo=whatsapp)](https://wa.me/255693629079?text=Hi%2C%20I%20want%20to%20report%20an%20issue%20with%20RAHMANI-XMD)
+
+
+*THANK YOU FOR CHOOSING RAHMANI-XMD*
+____________________________________,
+
+
+*Don't forget to fork the repo and give star* 🌟
