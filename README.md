@@ -69,5 +69,4 @@ ______________
    
 _________________________
 
-</p> <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F92C43F&background=FF20A500&center=true&vCenter=true&width=1000&height=200&lines=Thank+you;For+choosing+ RAHMANI+XMD+BY+Rahmani" alt="Typing SVG" /></a>
+[![Report Issue / Contact Maintainer](https://img.shields.io/badge/Contact%20Maintainer-Report%20Error-green?logo=whatsapp)](https://wa.me/255693629079,255760164530?text=Hi%2C%20I%20want%20to%20report%20an%20issue%20with%20RAHMANI-XMD)
